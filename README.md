@@ -1,5 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Brodys1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brodys1/)](https://www.linkedin.com/in/brodys1/)
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-333?&logo=Python)
